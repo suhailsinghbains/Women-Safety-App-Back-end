@@ -1,0 +1,15 @@
+{
+  "name": "women-safety-back-end",
+  "version": "1.0.0",
+  "description": "Nodejs (Backend) of the Women Safety Andorid App",
+  "main": "index.js",
+  "scripts": {
+    "test": "node index.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.16.2",
+    "pg": "^7.4.0"
+  }
+}
